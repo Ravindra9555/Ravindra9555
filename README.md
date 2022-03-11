@@ -6,7 +6,6 @@
 Connect With me on  <a href="https://www.linkedin.com/in/ravindra-kumar-99a1301b2/">Linkedin</a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img align="right" height="200" width="200" src="circle-cropped-min.png" >
 
 ### 🤔 About
 -  **Learning :** Front-End | Back-End|Competitive Programming 🖥️ : 

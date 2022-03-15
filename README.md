@@ -1,4 +1,4 @@
-<h1 align="center"> Hi!, I'm Ravindra Kumar 🌅 </h1>
+<h1 align="center"> Hi!, I'm Ravindra Kumar 🧑‍💻 </h1>
 
 <h3 align="center">  Computer Science Student | Web developer | Competitive programmer  </h3> <br>
 
@@ -8,7 +8,7 @@ Connect With me on  <a href="https://www.linkedin.com/in/ravindra-kumar-99a1301b
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🤔 About
--  **Learning :** Front-End | Back-End|Competitive Programmin|C|Java" **
+-  **Learning :** Front-End | Back-End|Competitive Programmin|C|C++|Java" **
 -  **Hobbies :** Learning from Youtube| Music | Programming **
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

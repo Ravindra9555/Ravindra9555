@@ -3,7 +3,7 @@
 <h3 align="center">  Computer Science Student | Web developer | Competitive programmer  </h3> <br>
 
 <p align="center"> 
-Connect With me on  <a href="https://www.linkedin.com/in/ravindra-kumar-99a1301b2/">Linkedin</a>
+Connect With me on  <a href="https://www.linkedin.com/in/ravindra-kumar-99a1301b2/" target="_blank" >Linkedin</a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

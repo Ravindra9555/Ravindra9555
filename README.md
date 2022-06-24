@@ -1,8 +1,8 @@
-#### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> , I'm Ravindra
+<h1 align="center" style=" color:#2F20AD ;"> Hi!, I'm Ravindra Kumar 🧑‍💻 </h1>
 
-This is the place where I make and break things. :rofl:
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
+<h3 align="center">  Computer Science Student | Web developer | Competitive programmer  </h3> <br>
+<hr>
 - 🌱 &nbsp;I’m currently learning Javascript|React js
 - 📫 &nbsp;How to reach me: [ravindraietbu@gmail.com](mailto:ravindraietbu@gmail.com)
 - 👨‍💻 &nbsp;Read more about my projects at <a href="https://github.com/Ravindra9555">github</a>

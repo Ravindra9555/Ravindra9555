@@ -6,7 +6,8 @@ This is the place where I make and break things. :rofl:
 - 🌱 &nbsp;I’m currently learning Javascript|React js
 - 📫 &nbsp;How to reach me: [ravindraietbu@gmail.com](mailto:ravindraietbu@gmail.com)
 - 👨‍💻 &nbsp;Read more about my projects at <a href="https://github.com/Ravindra9555">github</a>
-- 🌅 &nbsp;Visit my portfolio at<a href="https://ravindra9555.github.io/Ravindra_kumar/">Ravindra_Kumar</a>
+- 🌅 &nbsp;Visit my portfolio at <a href="https://ravindra9555.github.io/Ravindra_kumar/">Ravindra_Kumar</a>
+<hr>
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://twitter.com/RAVINDR50312995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshistaken" height="30" width="40" /></a>

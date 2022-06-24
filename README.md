@@ -3,10 +3,17 @@
 
 <h3 align="center">  Computer Science Student | Web developer | Competitive programmer  </h3> <br>
 <hr>
+
 - 🌱 &nbsp;I’m currently learning Javascript|React js
-- 📫 &nbsp;How to reach me: [ravindraietbu@gmail.com](mailto:ravindraietbu@gmail.com)
+<br>
+- 📫 &nbsp;How to reach me:<a href="mailto:ravindraietbu@gmail.com">ravindraietbu@gmail.com</a>
+<br>
+
 - 👨‍💻 &nbsp;Read more about my projects at <a href="https://github.com/Ravindra9555">github</a>
+<br>
+
 - 🌅 &nbsp;Visit my portfolio at <a href="https://ravindra9555.github.io/Ravindra_kumar/">Ravindra_Kumar</a>
+
 <hr>
 🔗 &nbsp;**Connect with me**
 <p align="left">

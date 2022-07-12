@@ -23,4 +23,4 @@
 
 📊 &nbsp;**Github Stats**
 
-![](https://github-readme-stats.vercel.app/api?username=Ravindra9555&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&hide=issues,stars)<br/>
+[![Ravindra Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravindra9555)](https://github.com/anuraghazra/github-readme-stats)

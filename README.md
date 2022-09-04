@@ -23,4 +23,6 @@
 
 📊 &nbsp;**Github Stats**
 
-[![Ravindra Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravindra9555&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ravindra Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravindra9555&theme=dark)](https://github.com/ravindra9555/github-readme-stats)
+
+| <a href="https://github.com/ravindra9555/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ravindra9555&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ravindra's github stats" /></a> | <a href="https://github.com/ravindra9555/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindra9555&layout=compact&theme=buefy&hide_border=true" /></a> |

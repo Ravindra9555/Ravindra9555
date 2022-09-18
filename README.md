@@ -9,7 +9,7 @@
 <br>
 - 👨‍💻 &nbsp;Read more about my projects at <a href="https://github.com/Ravindra9555">github</a>
 <br>
-- 🌅 &nbsp;Visit my portfolio at <a href="https://rravindra-kumar.netlify.app">Ravindra_Kumar</a>
+- 🌅 &nbsp;Visit my portfolio at <a href="https://ravindra-kumar.netlify.app">Ravindra_Kumar</a>
 <hr>
 🔗 &nbsp;**Connect with me**
 <p align="left">
